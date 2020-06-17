@@ -9,6 +9,8 @@ namespace Projeto_de_Csharp
             //Console.WriteLine("Olá Mundo!");
             //Console.ReadKey();
 
+
+            //aqui começa codigo
             string nome = "Adalberto";
             int idade = 40;
             char genero = 'M';
