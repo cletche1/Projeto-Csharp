@@ -20,7 +20,7 @@ namespace Projeto_de_Csharp
 
             //Console.ReadLine();
 
-            string[] frutas = new string[3] { "Laranja", "Pera", "Uva" };
+            string[] frutas = new string[3] { "Abacaxi", "Limão", "manga" };
             Console.WriteLine("A fruta numero dois:" + frutas[1]);
             Console.ReadLine();
 
