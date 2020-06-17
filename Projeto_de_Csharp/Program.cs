@@ -6,6 +6,10 @@ namespace Projeto_de_Csharp
     {
         static void Main(string[] args)
         {
+
+            // Neste projeto vou tentar colocar pelo menos códigos de 8 programas !!!!
+
+            // ================================================ Testando programa !!!
             //Console.WriteLine("Olá Mundo!");
             //Console.ReadKey();
 
@@ -28,6 +32,9 @@ namespace Projeto_de_Csharp
             //Console.WriteLine("A fruta numero dois:" + frutas[1]);
             //Console.ReadLine();
             //=================================================================================
+
+
+            // Vou ficar por aqui pois estou com sono depois vou terminar...
 
             double a, b;
             double pontoFlutuante = 'a' + 'b';
