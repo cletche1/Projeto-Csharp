@@ -20,10 +20,22 @@ namespace Projeto_de_Csharp
 
             //Console.ReadLine();
 
-            string[] frutas = new string[3] { "Abacaxi", "Limão", "manga" };
-            Console.WriteLine("A fruta numero dois:" + frutas[1]);
-            Console.ReadLine();
+            //aqui vou desenvolver mais um programa!!
 
+            //string[] frutas = new string[3] { "Abacaxi", "Limão", "manga" };
+            //Console.WriteLine("A fruta numero dois:" + frutas[1]);
+            //Console.ReadLine();
+
+
+            double a, b;
+            double pontoFlutuante = 'a' + 'b';
+
+            a = 2.5884;
+            b = 5.1235;
+            Console.WriteLine("a" + a + "reais e" + "b" + "b");
+            Console.WriteLine("O valor final que o Joao recebeu e" + pontoFlutuante.ToString("F2"));
+
+            Console.ReadLine();
 
         }
     }
